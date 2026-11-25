@@ -51,11 +51,12 @@ Coming with M4 (Week 8), when we add the Dockerfile and docker compose setup.
 
 | Name | Role |
 |---|---|
-| | |
-| | |
-| | |
-| | |
-| | |
+|Nureat Sey Ahmed |Product Owner / Team Lead |
+| |Architect / Tech Lead |
+|Adwoa Asor Gyasi |QA Lead |
+|Ansah Larbi Edward Junior |DevOps / Platform Lead|
+|Francis Akyeaw Amponsah |Security & Privacy Lead |
+|Irene Adu Adwoa |UX & Documentation Lead |
 
 ## How we work together
 
